@@ -1,0 +1,9 @@
+Denial Category,Possible Root Cause,Workflow Location,Prevention Action,Metric to Monitor
+Eligibility,Inactive coverage or incorrect plan information,Registration and eligibility verification,Confirm active coverage before service,Clean claim rate
+Authorization,Missing or expired prior authorization,Scheduling and authorization tracking,Verify authorization requirements before appointment,Authorization denial rate
+Medical Necessity,Insufficient documentation to support service,Clinical documentation,Use documentation checklist before claim submission,Medical necessity denial rate
+Demographics,Incorrect patient name date of birth or member ID,Registration,Validate demographic fields at intake,Registration error rate
+Timely Filing,Claim submitted after payer deadline,Billing and claims submission,Monitor claim submission aging,Timely filing denial volume
+Coordination of Benefits,Primary and secondary payer order incorrect,Eligibility verification,Confirm COB details before billing,COB denial rate
+Coding,Diagnosis or procedure code mismatch,Coding and billing,Review code documentation alignment,Coding-related denial rate
+Referral,Required referral missing,Scheduling and patient access,Confirm referral requirement before visit,Referral denial volume
