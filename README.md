@@ -10,6 +10,25 @@ The portfolio focuses on one core belief:
 
 > Most revenue cycle problems do not begin in billing. They begin upstream in intake, documentation, eligibility verification, authorization tracking, and handoff reliability.
 
+## Primary Brand Colors
+
+| Brand Role | Color | Hex Code | Use |
+|---|---|---:|---|
+| Primary Background | White | `#FFFFFF` | Main backgrounds, case study pages, clean document space |
+| Accent Color | Tennessee Orange | `#FF8200` | Headings, dividers, callouts, workflow nodes, key metrics |
+| Font Color | Black | `#000000` | Main body text, section titles, tables, labels |
+
+## Brand Style Direction
+
+This portfolio uses a clean, high-contrast healthcare operations identity:
+
+- White backgrounds for a polished professional look
+- Black typography for clarity and readability
+- Tennessee Orange as the main visual accent
+- Clean workflow structure with strong spacing
+- Analyst-style tables, process maps, and case study formatting
+- Orange used only to highlight key insights, not overpower the page
+
 ## Target Roles
 
 This portfolio is built for roles such as:
@@ -38,6 +57,7 @@ remote-revenue-cycle-analyst-portfolio/
 
 README.md
 LICENSE
+BRAND-GUIDE.md
 
 01-denial-root-cause-workflow/
   denial-root-cause-analysis.md
