@@ -1,0 +1,9 @@
+Checkpoint,Question to Confirm,Why It Matters,Status
+Patient Demographics,Are name date of birth address and member ID accurate?,Prevents patient matching and claim submission errors,Pending
+Active Coverage,Is coverage active for the exact date of service?,Prevents inactive coverage denials,Pending
+Payer and Plan,Are payer plan group number and network status correct?,Prevents wrong-payer and out-of-network issues,Pending
+Benefits,Are deductible copay coinsurance and coverage limits confirmed?,Improves patient estimate accuracy and reduces billing confusion,Pending
+Referral Requirement,Is a referral required for this service?,Prevents referral-related denials,Pending
+Prior Authorization,Is prior authorization required for this CPT service or visit type?,Prevents authorization-related denials,Pending
+Coordination of Benefits,Is the correct primary and secondary payer order confirmed?,Prevents COB denials and rework,Pending
+Verification Documentation,Was source reference number date and staff action documented?,Creates audit trail and supports follow-up,Pending
