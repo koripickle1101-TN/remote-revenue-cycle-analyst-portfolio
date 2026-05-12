@@ -1,0 +1,68 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Healthcare Revenue Cycle Workflow Portfolio</title>
+  <desc id="desc">Premium white, black, and Tennessee Orange visual identity for Kori Pickle's healthcare revenue cycle workflow portfolio.</desc>
+  <defs>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 1  0 0.51 0 0 0.25  0 0 0 0 0  0 0 0 .45 0" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="fadeLine" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#FF8200" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#FF8200" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#FF8200" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FF8200" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <rect x="70" y="70" width="1460" height="760" rx="34" fill="#FFFFFF" stroke="#E8E1DA" stroke-width="2"/>
+  <path d="M70 70 C245 70 250 240 230 400 C210 560 250 720 70 830 Z" fill="#FF8200" opacity=".96"/>
+  <circle cx="218" cy="188" r="54" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+  <circle cx="218" cy="188" r="38" fill="none" stroke="#FFFFFF" stroke-width="3" opacity=".7"/>
+  <path d="M194 187 l16 17 l34 -42" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="340" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" fill="#000000">HEALTHCARE</text>
+  <text x="340" y="292" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="700" fill="#FF8200">REVENUE CYCLE</text>
+  <text x="340" y="384" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" fill="#000000">WORKFLOW PORTFOLIO</text>
+  <line x1="340" y1="425" x2="1430" y2="425" stroke="url(#fadeLine)" stroke-width="5"/>
+  <g stroke="#FF8200" stroke-width="4" stroke-dasharray="8 16" opacity=".75">
+    <path d="M380 505 C500 455 580 455 700 505 S900 555 1020 505 S1220 455 1370 505" fill="none"/>
+  </g>
+  <g filter="url(#softGlow)">
+    <circle cx="390" cy="505" r="34" fill="#FFFFFF" stroke="#FF8200" stroke-width="5"/>
+    <circle cx="390" cy="505" r="22" fill="#FFFFFF" stroke="#FF8200" stroke-width="2"/>
+    <circle cx="650" cy="505" r="34" fill="#FFFFFF" stroke="#FF8200" stroke-width="5"/>
+    <circle cx="650" cy="505" r="22" fill="#FFFFFF" stroke="#FF8200" stroke-width="2"/>
+    <circle cx="910" cy="505" r="34" fill="#FFFFFF" stroke="#FF8200" stroke-width="5"/>
+    <circle cx="910" cy="505" r="22" fill="#FFFFFF" stroke="#FF8200" stroke-width="2"/>
+    <circle cx="1170" cy="505" r="34" fill="#FFFFFF" stroke="#FF8200" stroke-width="5"/>
+    <circle cx="1170" cy="505" r="22" fill="#FFFFFF" stroke="#FF8200" stroke-width="2"/>
+    <circle cx="1370" cy="505" r="34" fill="#FFFFFF" stroke="#FF8200" stroke-width="5"/>
+    <circle cx="1370" cy="505" r="22" fill="#FFFFFF" stroke="#FF8200" stroke-width="2"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#000000" text-anchor="middle">
+    <text x="390" y="590">Eligibility</text>
+    <text x="650" y="590">Authorization</text>
+    <text x="910" y="590">Denials</text>
+    <text x="1170" y="590">A/R Follow-Up</text>
+    <text x="1370" y="590">Integrity</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#000000">
+    <rect x="340" y="655" width="360" height="100" rx="18" fill="#FBF8F4" stroke="#E8E1DA"/>
+    <rect x="720" y="655" width="360" height="100" rx="18" fill="#FBF8F4" stroke="#E8E1DA"/>
+    <rect x="1100" y="655" width="330" height="100" rx="18" fill="#FBF8F4" stroke="#E8E1DA"/>
+    <text x="370" y="700" font-size="24" font-weight="700">Workflow Analysis</text>
+    <text x="370" y="733" font-size="20">Map the break before the bill.</text>
+    <text x="750" y="700" font-size="24" font-weight="700">Denial Prevention</text>
+    <text x="750" y="733" font-size="20">Fix upstream failure points.</text>
+    <text x="1130" y="700" font-size="24" font-weight="700">Revenue Integrity</text>
+    <text x="1130" y="733" font-size="20">Protect clean claim readiness.</text>
+  </g>
+  <text x="80" y="866" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">Created by Kori Pickle</text>
+  <text x="80" y="895" font-family="Brush Script MT, Segoe Script, cursive" font-size="34" fill="#2B2B2B" transform="skewX(-8)">Kori Pickle</text>
+  <g transform="translate(1260 848)" fill="none" stroke="#000000" stroke-width="3" opacity=".78">
+    <rect x="0" y="0" width="34" height="34" rx="5"/>
+    <path d="M8 14 v14 M8 8 v1 M16 28 v-10 c0-6 10-6 10 0 v10"/>
+    <circle cx="78" cy="17" r="17"/>
+    <path d="M68 20 c0 8 20 8 20 0 v-6 c0-8-20-8-20 0z"/>
+  </g>
+</svg>
